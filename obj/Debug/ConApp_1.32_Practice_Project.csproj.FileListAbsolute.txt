@@ -1,0 +1,8 @@
+D:\DotNet\ConApp_1.32_Practice_Project\obj\Debug\ConApp_1.32_Practice_Project.csproj.AssemblyReference.cache
+D:\DotNet\ConApp_1.32_Practice_Project\obj\Debug\ConApp_1.32_Practice_Project.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\ConApp_1.32_Practice_Project\obj\Debug\ConApp_1.32_Practice_Project.csproj.CoreCompileInputs.cache
+D:\DotNet\ConApp_1.32_Practice_Project\bin\Debug\ConApp_1.32_Practice_Project.exe.config
+D:\DotNet\ConApp_1.32_Practice_Project\bin\Debug\ConApp_1.32_Practice_Project.exe
+D:\DotNet\ConApp_1.32_Practice_Project\bin\Debug\ConApp_1.32_Practice_Project.pdb
+D:\DotNet\ConApp_1.32_Practice_Project\obj\Debug\ConApp_1.32_Practice_Project.exe
+D:\DotNet\ConApp_1.32_Practice_Project\obj\Debug\ConApp_1.32_Practice_Project.pdb
